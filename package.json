@@ -1,0 +1,26 @@
+{
+  "name": "vigour-event",
+  "version": "1.0.0",
+  "description": "vigour flavoured events",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/event.git"
+  },
+  "keywords": [
+    "event",
+    "vigour"
+  ],
+  "dependencies": {
+    "vigour-util": "1.0.0"
+  },
+  "author": "jim de beer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/event/issues"
+  },
+  "homepage": "https://github.com/vigour-io/event#readme"
+}
