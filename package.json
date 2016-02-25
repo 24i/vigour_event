@@ -15,7 +15,7 @@
     "vigour"
   ],
   "dependencies": {
-    "vigour-util": "1.0.1"
+    "vigour-util": "^1.0.1"
   },
   "author": "jim de beer",
   "license": "ISC",
